@@ -1,0 +1,6 @@
+{
+	"ip":"Zertoyn.aternos.me",
+	"port": "39342",
+	"name": "afkbot1",
+	"auto-night-skip":"true"
+}
